@@ -1,7 +1,9 @@
 # Crowdfunding ETL Project
+
+## 🔎 Overview
 The goal of this mini project is to organize and combine datasets containing information on crowdfunding campaigns run by different companies. 
 
-## Data Sources
+## 📊 Data Sources
 1. Categories
    - Description: Contains data on the categories and subcategories of companies
    - Key columns: category_id
@@ -12,13 +14,13 @@ The goal of this mini project is to organize and combine datasets containing inf
    - Description: Contains data on unique contacts, which are assigned to a company
    - Key columns: contact_id
   
-## Process
+## 🔬 Process
 Build an ETL pipeline using Python and Pandas to extract and transform the data, then use SQL to create an ERD sketch and load the data into a Postgres database.
 
 Cleaned code in Python, exported to CSV and created an ERD sketch using QuickDBD. Referencing the ERD, I loaded the data into SQL along with establishing the foreign keys and primary keys. 
 
-## Tools Used
+## 🛠️ Tools Used
 Python, SQL, QuickDBD, Jupyter Notebook
 
-## References
-Code help from Xpert Learning Assistant Chat
+## 📁 References
+Code assistance from Xpert Learning Assistant Chat.
